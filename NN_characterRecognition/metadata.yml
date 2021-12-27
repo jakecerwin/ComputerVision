@@ -1,0 +1,12 @@
+---
+:id: 58490753
+:submitters:
+- :name: Jake Cerwin
+  :email: jcerwin@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-07 04:55:45.984037000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-06 20:55:45.984037000 Z
+:status: processed
+:score: 63.0
